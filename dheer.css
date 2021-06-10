@@ -1,0 +1,84 @@
+.grid img{
+    border:2px solid black;
+    border-radius: 50px;
+}
+.origami{
+    border-radius: 20px;
+    background-color: white;
+
+    width:310px;
+    font-family: fantasy;
+}
+.menu{
+    display:flex;
+    justify-content: space-between;
+    background-color: black;
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: 400;
+    color: white;
+
+
+}
+body{
+    background-color: whitesmoke;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*h1{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: oblique;
+    text-align: center;
+    background-color: burlywood;
+}
+
+p{
+    font-size: smaller;
+    font-weight: 20;
+    font-style: normal;
+    color: darkgray;
+}
+img{
+    border: darkslategrey;
+    border-radius: 15px;
+    border-style: solid;
+}
+.Header{
+    display: flexbox;
+    justify-content: space-between;
+    flex-wrap:wrap;
+    
+}
+*/
